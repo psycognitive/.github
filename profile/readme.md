@@ -16,7 +16,7 @@ USPTO (United States Patent and Trademark Office) (https://www.uspto.gov/patents
 
 EPO (European Patent Office) (https://www.epo.org/)
 
-EPO (European Patent Office) ([https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BB%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82])
+EPO (European Patent Office) ([https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект])
 
 Патенты, зарегистрированные в Европе, могут также включать разработки, 
 связанные с воздействием электромагнитных полей или нейростимуляции в контексте управления когнитивными функциями.
