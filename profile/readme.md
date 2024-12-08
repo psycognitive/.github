@@ -16,7 +16,7 @@ USPTO (United States Patent and Trademark Office) (https://www.uspto.gov/patents
 
 EPO (European Patent Office) (https://www.epo.org/)
 
-[Эффект Фрея] (https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект)
+[Эффект Фрея (Microwave auditory effect)] (https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект)
 
 [Эффект Фрея](https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект) 
 
