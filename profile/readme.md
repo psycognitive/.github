@@ -27,7 +27,8 @@ WIPO (World Intellectual Property Organization) (https://www.wipo.int/patents/en
 #### **1. Нейротехнологии на основе электромагнитных волн**    
 Эти технологии работают с использованием радиочастот, микроволн или электромагнитных полей для взаимодействия с мозгом.
 
-- :  (**Эффект Фрея** (Microwave auditory effect))(https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BB%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82)
+- :  (**Эффект Фрея** (Microwave auditory effect)) 
+ (https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BB%D1%83%D1%85%D0%BE%D0%B2%D0%BE%D0%B9_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82)
   Позволяет передавать звуковые сигналы непосредственно в мозг с помощью микроволнового излучения. Использовался в экспериментах для передачи простых сообщений.  
 
 - **Электромагнитная стимуляция мозга (TMS)**:  
