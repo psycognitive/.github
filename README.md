@@ -1,4 +1,4 @@
-# Технологии и концепций
+# Технологии и концепции
 
 
 Google Patents (https://patents.google.com/)
