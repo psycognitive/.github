@@ -1,4 +1,7 @@
-# Google Patents (https://patents.google.com/)
+# Технологии и концепций
+
+
+Google Patents (https://patents.google.com/)
 
 Это крупнейшая поисковая система для патентов. Можно использовать такие ключевые слова, как:
 
