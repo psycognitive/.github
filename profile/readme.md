@@ -18,7 +18,7 @@ EPO (European Patent Office) (https://www.epo.org/)
 
 [Эффект Фрея (Microwave auditory effect)] (https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект)
 
-[Эффект Фрея](https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект) 
+[Эффект Фрея (Microwave auditory effect)](https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект) 
 
 Патенты, зарегистрированные в Европе, могут также включать разработки, 
 связанные с воздействием электромагнитных полей или нейростимуляции в контексте управления когнитивными функциями.
