@@ -16,7 +16,7 @@ USPTO (United States Patent and Trademark Office) (https://www.uspto.gov/patents
 
 EPO (European Patent Office) (https://www.epo.org/)
 
-EPO (European Patent Office) ([https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект])
+(**Эффект Фрея**) (https://ru.wikipedia.org/wiki/Микроволновый_слуховой_эффект)
 
 Патенты, зарегистрированные в Европе, могут также включать разработки, 
 связанные с воздействием электромагнитных полей или нейростимуляции в контексте управления когнитивными функциями.
