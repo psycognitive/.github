@@ -3,7 +3,7 @@
 
 Google Patents (https://patents.google.com/)
 
-[Эффект Фрея (Microwave auditory effect)](https://patents.google.com/) 
+[Google Patents](https://patents.google.com/) 
 
 Это крупнейшая поисковая система для патентов. Можно использовать такие ключевые слова, как:
 
